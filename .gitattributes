@@ -1,0 +1,4 @@
+lawn-conversion-experiment_v1.html filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+**html filter=lfs diff=lfs merge=lfs -text
+*html filter=lfs diff=lfs merge=lfs -text
